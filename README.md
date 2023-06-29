@@ -168,7 +168,17 @@ A regressão linear simples é um método estatístico que modela a relação en
 
     - Um ajuste perfeito não é ideal
     - Também não é ideal que esteja muito fora da concentração dos dados
-    - Em gráficos muito dispersos (Juscelino: "tenho dado em todos os lugares") a Regressão Linear não seja eficaz! (não vai funcionar)
+    - Em gráficos muito dispersos (Juscelino: "tenho dado em todos os lugares") a Regressão Linear não será eficaz! (não vai funcionar)
+
+![melhor-ajuste](./public/melhor-ajuste-regressao.png)
+
+![melhor-ajuste-linhas](./public/melhor-ajuste.png)
+
+## **Coeficiente de Determinação**
+
+    Quanto mais próximo de 1 mais ajustada está a linha de regressão. Coeficiente 0 representa um modelo subajustado(underfitting), já um coeficiente 1 representa um modelo superajustado (overfitting).
+
+![coeficiente-determinacao](./public/coeficiente-angular.png)
 
 # Revisão primeiras aulas
 
