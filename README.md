@@ -120,3 +120,34 @@ distribuídos.
 - Dados até 3 desvios padrão da média
 
 ![distribuicao-normal](./public/distribuicao-normal.png)
+
+_Cálculo:_
+
+![calculo-distribuicao](./public/calculo-distribuicao.png)
+
+![calculo-distribuicao2](./public/calculo-destribuicao-normal.png)
+
+## **Correlação**
+
+A correlação é uma medida estatística que descreve o grau de relação entre duas variáveis.
+
+Ela indica a direção (positiva ou negativa) e a força dessa relação.
+
+O coeficiente de correlação varia de
+-1 a +1.
+
+- Valores próximos de -1 indicam uma correlação negativa forte.
+- Valores próximos de +1 indicam uma correlação positiva forte.
+- Um valor próximo de 0 indica uma correlação fraca ou inexistente.
+
+![correlacao](./public/correlacao.png)
+
+## **Regressão Linear**
+
+![regressao-linear](./public/regressao-linear.png)
+
+A regressão linear simples é um método estatístico que modela a relação entre duas variáveis:
+
+- Uma variável independente (X) e uma variável dependente (Y).
+
+- É usada para prever ou estimar o valor de Y com base nos valores de X.
