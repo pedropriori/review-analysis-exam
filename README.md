@@ -158,6 +158,18 @@ A regressão linear simples é um método estatístico que modela a relação en
 - **X:** em baixo, horizontal
 - **y:** subindo, vertical
 
+### _Regressão Linear Simples_
+
+![linear-simples](./public/regressao-linear-simples.png)
+
+## **QUESTÃO DE PROVA!**
+
+    O ideal é que de forma geral, a linha esteja aproximada (e não exatamente) onde estão concentrados a maioria dos dados
+
+    - Um ajuste perfeito não é ideal
+    - Também não é ideal que esteja muito fora da concentração dos dados
+    - Em gráficos muito dispersos (Juscelino: "tenho dado em todos os lugares") a Regressão Linear não seja eficaz! (não vai funcionar)
+
 # Revisão primeiras aulas
 
 ## CIENCIA DE DADOS
