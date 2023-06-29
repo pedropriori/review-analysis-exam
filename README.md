@@ -151,3 +151,7 @@ A regressão linear simples é um método estatístico que modela a relação en
 - Uma variável independente (X) e uma variável dependente (Y).
 
 - É usada para prever ou estimar o valor de Y com base nos valores de X.
+- _Variavel Independente:_ Previsor
+- _Variavel Dependente:_ Classe
+- **X:** em baixo, horizontal
+- **y:** subindo, vertical
